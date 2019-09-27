@@ -11,9 +11,6 @@
   "author": "Aélion",
   "license": "ISC",
   "main": "index.html",
-  "dependencies": {
-    "bootstrap": "^4.3.1"
-  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
