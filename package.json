@@ -1,12 +1,7 @@
 {
   "name": "my_project",
   "version": "1.0.0",
-<<<<<<< HEAD
-  "description": "Poor git test",
-  "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Simple html project",
   "keywords": [
     "git",
     "npm",
@@ -14,9 +9,7 @@
     "js"
   ],
   "author": "Aélion",
-  "license": "ISC"
-=======
-  "description": "Simple html project",
+  "license": "ISC",
   "main": "index.html",
   "dependencies": {
     "bootstrap": "^4.3.1"
@@ -33,8 +26,6 @@
     "HTML",
     "CSS"
   ],
-  "author": "Aélion",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/dacodemaniak/simple-html-project/issues"
   },
@@ -43,5 +34,4 @@
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1"
   }
->>>>>>> 3221e07... Added package.json and npm init
 }
