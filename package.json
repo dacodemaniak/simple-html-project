@@ -1,0 +1,31 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "Simple html project",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacodemaniak/simple-html-project.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS"
+  ],
+  "author": "Aélion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dacodemaniak/simple-html-project/issues"
+  },
+  "homepage": "https://github.com/dacodemaniak/simple-html-project#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
